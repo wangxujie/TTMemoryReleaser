@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="library_nineold_animation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/library_nineold_animation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
