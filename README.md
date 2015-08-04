@@ -1,5 +1,9 @@
 # TT内存清理
 
+# deprecated!
+
+## 使用[BalloonPerformer](https://github.com/Kyson/BalloonPerformer)替代
+
 因为自己的手机比较卡，所以就想写个小工具改善一下手机卡顿的情况，既然写了就又顺手写点自定义的View，最后又顺手把它上线了，其实基本没什么人下载，现在把原来项目的友盟数据统计和有米广告去掉了开源出来给大家看看。
 
 apk下载：[http://zhushou.360.cn/detail/index/soft_id/2366842](http://zhushou.360.cn/detail/index/soft_id/2366842)
